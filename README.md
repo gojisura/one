@@ -9,7 +9,7 @@
           $\color{#000000}\textsf{YOUR TEXT}$, I recommend https://htmlcolorcodes.com for picking out hex codes.
 -->
 
-<!-- LEFT BOX --!>
+<!-- LEFT BOX -->
 
   <table border="0" align="left">
     <tr align="center"></tr>
@@ -20,7 +20,7 @@ remember to resize it to your liking.
 </th>
 
   </table>
-<!-- RIGHT BOX --!>
+<!-- RIGHT BOX -->
 
 <div align="center">
 <table width="220" align="center">
@@ -29,7 +29,7 @@ remember to resize it to your liking.
 
 <td width="250" align="center">
 <!-- TYPING SVG (YOU CAN REPLACE THIS WITH JUST TEXT.) 
-see https://readme-typing-svg.herokuapp.com/demo/ to make your own.--!>
+see https://readme-typing-svg.herokuapp.com/demo/ to make your own.-->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=TEXT+TEXT+TEXT+TEXT+TEXT+TEXT" alt="Typing SVG" /></a>
 </p>
@@ -44,7 +44,7 @@ see https://readme-typing-svg.herokuapp.com/demo/ to make your own.--!>
 <br>
  NAME . AGE . PRONOUNS<br>
   
-<!-- Optional banner, dimensions width="300px;" height="60px;" or simply crop the image yourself to fit. I recommend keeping the banner as it makes the table size just right. --!>
+<!-- Optional banner, dimensions width="300px;" height="60px;" or simply crop the image yourself to fit. I recommend keeping the banner as it makes the table size just right. -->
   
   <img src="https://placehold.co/300x60/png"><br>
     $\color{#71797E}\textsf{INFO INFO INFO}$<br>
@@ -52,7 +52,7 @@ see https://readme-typing-svg.herokuapp.com/demo/ to make your own.--!>
     INFO INFO INFO<br>
 >INFO INFO INFO <br>
 >INFO INFO INFO
-<!-- DROP DOWN LINK --!>
+<!-- DROP DOWN LINK -->
   <details>
 <summary>INFO</summary>
 
@@ -66,7 +66,7 @@ INFO INFO INFO
 
 <!-- LINKS 
 Feel free to add more
---!>
+-->
 
 <a href="YOUR LINK">LINK</a> ⸝⸝ <a href="YOUR LINK">LINK</a>
 </td>
@@ -75,7 +75,7 @@ Feel free to add more
 </table>
 </div>
 
-<!-- BANNER --!>
+<!-- BANNER -->
 
 <p>
 <img src="https://placehold.co/800x200/png">
